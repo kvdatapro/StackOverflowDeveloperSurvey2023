@@ -24,12 +24,12 @@ The purpose of this project was to understand:
 
 The enclosed dataset is the complete, cleaned results of the 2023 Stack Overflow Developer Survey. These are the files included in the Dataset:
 
-1. **survey_results_public.csv**: CSV file with main survey results, one respondent per row and one column per answer.
-2. **survey_results_schema.csv**: CSV file with survey schema, i.e., the questions that correspond to each column name.
-3. **so_survey_2023.pdf**: PDF file of the survey instrument.
+1. `survey_results_public.csv`: CSV file with main survey results, one respondent per row and one column per answer.
+2. `survey_results_schema.csv`: CSV file with survey schema, i.e., the questions that correspond to each column name.
+3. `so_survey_2023.pdf`: PDF file of the survey instrument.
 
 
-**cleaned_survey_results10.csv** is provided as an overview for the entire dataset after it is cleaned.
+`cleaned_survey_results10.csv` is provided as an overview for the entire dataset after it is cleaned.
 
 The survey was fielded from May 8, 2023, to May 19, 2023. The median time spent on the survey for qualified responses was 17 minutes.
 
